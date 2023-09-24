@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1695493479 source:f:\phonebook app\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"types.h"
+	"phonebook.h"
+
+1695493545 source:f:\phonebook app\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1695493480 f:\phonebook app\phonebook\types.h
+
+1695493481 f:\phonebook app\phonebook\phonebook.h
+
+1695493549 source:f:\phonebook app\phonebook\utilities.c
+	<string.h>
+	<ctype.h>
+	"utilities.h"
+
+1695493546 f:\phonebook app\phonebook\utilities.h
+
